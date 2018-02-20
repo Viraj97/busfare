@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
+    //commit
 	float bus1,bus2,bus3,tot;
 	printf("Enter Ammount for bus1 ");
 	scanf("%f",&bus1);

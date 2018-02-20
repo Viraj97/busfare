@@ -12,6 +12,7 @@ int main(void)
 	tot=70*2*(bus1+bus2+bus3);
 	printf("your total bus fare is ");
 	printf("%.2f",tot);
+    //new comment
 return 0;
 }
 		
